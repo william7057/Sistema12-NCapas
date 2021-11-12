@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
+using System.Data.SqlClient;
 
-namespace CapaNegocio
+namespace CapaDatos
 {
-    public class Class1
+    class CD_Productos
     {
+
     }
 }
